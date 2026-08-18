@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite it as below."
+title: "CeloHT Investor & Open Source Project Book"
+version: 1.0.0
+date-released: 2026-08-01
+authors:
+  - name: "CeloHT"
+  - given-names: "Johnny"
+    family-names: "Dubic"
+    affiliation: "CeloHT"
+url: "https://github.com/Celo-HaiTi/celoht-investor-book"
+repository-code: "https://github.com/Celo-HaiTi/celoht-investor-book"
+license: CC-BY-4.0
+keywords:
+  - financial inclusion
+  - Celo
+  - Web3 education
+  - Haiti
+  - open source
+  - reforestation
+abstract: >
+  The official investor and open-source project book for CeloHT, a
+  Haitian-led, open-source, community-governed initiative advancing
+  financial inclusion, Web3 education, and reforestation on the Celo
+  ecosystem.
