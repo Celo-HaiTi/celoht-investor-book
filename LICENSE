@@ -23,8 +23,12 @@ Note: This license applies to the text of this book only. CeloHT's
 software repositories (celoht-dapp, celoht-smart-contracts, celoht-docs,
 celoht-siteweb, celoht-brand, celoht-research, and the core CeloHT
 repository) are licensed separately under Apache License 2.0. See:
-https://github.com/Celo-HT/CeloHT/blob/main/LICENSE
+https://github.com/Celo-HaiTi/CeloHT/blob/main/LICENSE
 
 The CeloHT name, logo, and brand assets are governed by CeloHT's brand
 guidelines and are not covered by this license. See:
 https://github.com/Celo-HaiTi/celoht-brand
+
+Additional software licensing terms for the CeloHT ecosystem repositories are
+available at:
+https://github.com/Celo-HaiTi/CeloHT/blob/main/LICENSE

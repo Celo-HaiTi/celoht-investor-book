@@ -15,7 +15,7 @@ Primary sources for independent verification of claims made in this book. Every 
 - Community health files — https://github.com/Celo-HaiTi/.github
 - Website — https://celoht.com
 - Governance charter — https://github.com/Celo-HaiTi/CeloHT/blob/main/GOVERNANCE.md
-- No-Token Policy — https://github.com/Celo-HT/CeloHT/blob/main/NO_TOKEN_POLICY.md
+- No-Token Policy — https://github.com/Celo-HaiTi/CeloHT/blob/main/NO_TOKEN_POLICY.md
 - Roadmap — https://github.com/Celo-HaiTi/CeloHT/blob/main/ROADMAP.md
 - Security policy — https://github.com/Celo-HaiTi/CeloHT/blob/main/SECURITY.md
 

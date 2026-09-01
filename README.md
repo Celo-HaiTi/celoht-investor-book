@@ -9,7 +9,7 @@
 
 This is the official investor and open-source project book for **CeloHT**, a Haitian-led, open-source, community-governed initiative advancing financial inclusion, Web3 education, and reforestation, built on the Celo ecosystem. The book explains CeloHT's mission, technical architecture, governance, roadmap, and honest current status, in the same spirit of transparency CeloHT applies to its own repositories.
 
-CeloHT is **not** a blockchain, not a token, not a cryptocurrency, and not an investment platform. See [`NO_TOKEN_POLICY.md`](https://github.com/Celo-HT/CeloHT/blob/main/NO_TOKEN_POLICY.md) in the core `CeloHT` repository. CeloHT uses USDm (the Mento Protocol's dollar-pegged stablecoin, formerly Celo Dollar / cUSD, renamed December 2025) and the Valora wallet as existing, regulated infrastructure; it does not issue either.
+CeloHT is **not** a blockchain, not a token, not a cryptocurrency, and not an investment platform. See [`NO_TOKEN_POLICY.md`](https://github.com/Celo-HaiTi/CeloHT/blob/main/NO_TOKEN_POLICY.md) in the core `CeloHT` repository. CeloHT uses USDm (the Mento Protocol's dollar-pegged stablecoin, formerly Celo Dollar / cUSD, renamed December 2025) and the Valora wallet as existing, regulated infrastructure; it does not issue either.
 
 ## Intended audience
 
@@ -56,7 +56,7 @@ To report a factual or technical inconsistency in this book, please [open an iss
 
 ## License
 
-Text of this book is released under **CC BY 4.0** (Creative Commons Attribution 4.0) unless otherwise noted — see [`LICENSE`](./LICENSE). CeloHT's software repositories are separately licensed under **Apache 2.0**; see the [`CeloHT`](https://github.com/Celo-HT/CeloHT/blob/main/LICENSE) repository for software licensing terms.
+Text of this book is released under **CC BY 4.0** (Creative Commons Attribution 4.0) unless otherwise noted — see [`LICENSE`](./LICENSE). CeloHT's software repositories are separately licensed under **Apache 2.0**; see the [`CeloHT`](https://github.com/Celo-HaiTi/CeloHT/blob/main/LICENSE) repository for software licensing terms.
 
 ---
 
