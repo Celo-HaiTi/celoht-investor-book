@@ -1,15 +1,30 @@
 # CeloHT Investor & Open Source Project Book
 
-**Version:** v1.0.0
+**Version:** v1.0.2
 **Publication date:** August 2026
-**Format:** PDF (primary), Word/.docx (source)
+**Format:** PDF (primary publication), Word/.docx (editable source)
 **Length:** 61 pages, 55 chapters
 
-## What this is
+## Repository purpose
 
-This is the official investor and open-source project book for **CeloHT**, a Haitian-led, open-source, community-governed initiative advancing financial inclusion, Web3 education, and reforestation, built on the Celo ecosystem. The book explains CeloHT's mission, technical architecture, governance, roadmap, and honest current status, in the same spirit of transparency CeloHT applies to its own repositories.
+This repository packages the official investor and open-source project book for **CeloHT**. It is a publication repository, not a live blockchain application, wallet, or smart-contract deployment project. The purpose of this repo is to distribute the verified CeloHT narrative, governance context, technical architecture overview, and current-status disclosure in a stable, reviewable format.
 
 CeloHT is **not** a blockchain, not a token, not a cryptocurrency, and not an investment platform. See [`NO_TOKEN_POLICY.md`](https://github.com/Celo-HaiTi/CeloHT/blob/main/NO_TOKEN_POLICY.md) in the core `CeloHT` repository. CeloHT uses USDm (the Mento Protocol's dollar-pegged stablecoin, formerly Celo Dollar / cUSD, renamed December 2025) and the Valora wallet as existing, regulated infrastructure; it does not issue either.
+
+## Repository contents
+
+This repository currently contains:
+
+- `CELOHT_INVESTOR_AND_OPEN_SOURCE_PROJECT_BOOK_v1.0_AUGUST_2026.pdf` — primary published PDF artifact
+- `CeloHT_Investor_Book_FINAL.docx` — editable source document
+- `README.md` — project overview and access instructions
+- `CHANGELOG.md` — publication update history
+- `SOURCES.md` — reference list and source notes
+- `REPOSITORY_PRODUCT_READINESS.md` — repository responsibility and readiness status
+- `LICENSE` — publication license
+- `WALLET_COMPATIBILITY.md` — wallet and ecosystem compatibility notes
+- `CITATION.cff` — citation metadata
+- project images and branding assets used in the publication
 
 ## Intended audience
 
@@ -47,8 +62,9 @@ The CeloHT dApp (`celoht-dapp`) referenced in this book is a **prototype with si
 
 ## How to access
 
-- **Read online / download:** `CELOHT_INVESTOR_AND_OPEN_SOURCE_PROJECT_BOOK_v1.0_AUGUST_2026.pdf` (this repository)
-- **Editable source:** `source/CeloHT_Investor_Book_FINAL.docx`
+- **Read / download:** `CELOHT_INVESTOR_AND_OPEN_SOURCE_PROJECT_BOOK_v1.0_AUGUST_2026.pdf`
+- **Editable source:** `CeloHT_Investor_Book_FINAL.docx`
+- **Repository metadata and publication notes:** `CHANGELOG.md`, `SOURCES.md`, `REPOSITORY_PRODUCT_READINESS.md`
 
 ## Corrections and feedback
 
