@@ -3,13 +3,13 @@
 **Version:** v1.0.2
 **Publication date:** August 2026
 **Format:** PDF (primary publication), Word/.docx (editable source)
-**Length:** 61 pages, 55 chapters
+**Length:** 64 pages, 55 chapters
 
 ## Repository purpose
 
-This repository packages the official investor and open-source project book for **CeloHT**. It is a publication repository, not a live blockchain application, wallet, or smart-contract deployment project. The purpose of this repo is to distribute the verified CeloHT narrative, governance context, technical architecture overview, and current-status disclosure in a stable, reviewable format.
+This repository packages the official investor and open-source project book for **CeloHT**. It is a publication repository, not a live blockchain application, wallet, or smart-contract deployment project. The purpose of this repo is to distribute the documented CeloHT narrative, governance context, technical architecture overview, and current-status disclosure in a stable, reviewable format.
 
-CeloHT is **not** a blockchain, not a token, not a cryptocurrency, and not an investment platform. See [`NO_TOKEN_POLICY.md`](https://github.com/Celo-HaiTi/CeloHT/blob/main/NO_TOKEN_POLICY.md) in the core `CeloHT` repository. CeloHT uses USDm (the Mento Protocol's dollar-pegged stablecoin, formerly Celo Dollar / cUSD, renamed December 2025) and the Valora wallet as existing, regulated infrastructure; it does not issue either.
+CeloHT is **not** a blockchain, not a token, not a cryptocurrency, and not an investment platform. See [`NO_TOKEN_POLICY.md`](https://github.com/Celo-HaiTi/CeloHT/blob/main/NO_TOKEN_POLICY.md) in the core `CeloHT` repository. The book references USDm (historically known as Celo Dollar / cUSD) and the Valora wallet as external ecosystem infrastructure; CeloHT does not issue or operate either.
 
 ## Repository contents
 

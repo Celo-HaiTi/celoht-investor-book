@@ -1,10 +1,16 @@
 # Repository Product Readiness
 
+**Audit date:** 2026-09-06
+
+This status applies only to the publication repository. It does not certify the
+security, deployment, governance, wallet, or production status of any external
+CeloHT repository or linked service.
+
 ## Repository Purpose
 
 This repository is the CeloHT investor and open-source project book. It packages the official publication in PDF and Word formats, supports public distribution, and provides the source material for the CeloHT ecosystem narrative.
 
-This repository is not a blockchain application, smart-contract deployment repo, or operational wallet implementation. Its responsibility is to provide a verified, publication-ready record of the CeloHT mission, governance, architecture, and current status disclosure.
+This repository is not a blockchain application, smart-contract deployment repo, or operational wallet implementation. Its responsibility is to provide a publication-ready record of the documented CeloHT mission, governance, architecture, and current status disclosure.
 
 ## Architecture
 
@@ -43,14 +49,14 @@ These are integration references only; there is no direct runtime dependency bet
 
 ## Changes Made
 
-- Corrected stale `Celo-HT` GitHub references to the canonical `Celo-HaiTi` organization.
+- Corrected historical/legacy `Celo-HT` GitHub references to the canonical `Celo-HaiTi` organization.
 - Updated licensing language to match the verified canonical org and identity.
 - Added explicit readiness documentation for this repository's actual responsibility.
 - Preserved historical terminology where required and marked it as historical rather than active product usage.
 
 ## Contradictions Found
 
-- Obsolete GitHub organization references using `Celo-HT` remained in project documentation.
+- Historical/legacy GitHub organization references using `Celo-HT` remained in project documentation.
 - The license note referenced the legacy org path instead of the current canonical source.
 - The repository needed a clear distinction between publication content and live product implementation status.
 
@@ -97,13 +103,13 @@ These are integration references only; there is no direct runtime dependency bet
 
 - No secrets, env files, or private credentials are present.
 - No deployment credentials or production infrastructure config are included.
-- Status: `SECURE FOR SCOPE`.
+- Status: `IMPLEMENTED` for this repository's publication-only scope.
 
 ## Tests
 
 - No unit, integration, or contract tests are applicable to this publication-only repository.
-- Verification performed: repository scan for stale org references, canonical identity checks, and consistency review of README/license/source metadata.
-- Result: `VERIFIED` for repository metadata and publication correctness.
+- Verification performed: tracked-file inventory, stale-term and secret-pattern scan, metadata consistency review, and PDF/DOCX MIME validation.
+- Result: `IMPLEMENTED` for repository metadata checks; independent claim-by-claim publication verification remains outstanding.
 
 ## Build
 
@@ -123,10 +129,42 @@ These are integration references only; there is no direct runtime dependency bet
 
 ## Remaining Blockers
 
-No known fixable blocker remains for this repository's defined responsibility as a publication and source document package.
+- Independent line-by-line verification of metrics, financial figures, milestones, policy claims, and external repository status is still required before treating the book as fully evidence-backed.
+- The external CeloHT repositories and linked services are not runtime dependencies here, so their deployment, audit, governance, wallet, and network status cannot be established from this repository alone.
+- A maintainer must perform any intended Git push or release publication; no remote release is asserted by this repository.
+
+## Approved Statuses
+
+### IMPLEMENTED
+
+The repository packages a PDF publication, editable DOCX source, metadata, references, and explicit prototype/status disclosures.
+
+### TESTNET READY
+
+`NOT APPLICABLE`: this repository contains no deployable testnet software.
+
+### PRODUCTION READY
+
+`NOT APPLICABLE`: this repository is not a production application, contract, wallet, backend, or deployment package.
+
+### PLANNED
+
+Independent evidence refresh, publication release management, and future manuscript corrections remain planned maintenance work.
+
+### BLOCKED
+
+Full evidence-backed sign-off is blocked by the external verification items listed above.
+
+### MOCK / DEMO
+
+The dApp and wallet behavior described in the publication is explicitly documented as prototype/simulated behavior, not live functionality.
+
+### HISTORICAL / DEPRECATED
+
+Legacy organization names and cUSD references are retained only where the publication explains historical terminology; they are not current CeloHT configuration.
 
 ## Final Product Readiness Status
 
-READY
+`IMPLEMENTED` for the repository's publication-packaging responsibility. Full evidence-backed publication sign-off is `BLOCKED` pending the external verification work above.
 
-This repository is product-ready for its actual responsibility: publishing the CeloHT investor book and ensuring that the repository's identity, references, and publication metadata are synchronized with the verified CeloHT canonical organization and current terminology.
+This repository is implemented for its actual responsibility: packaging the CeloHT investor book and maintaining repository identity, references, and publication metadata against the canonical CeloHT organization and current terminology. External claims remain subject to the blockers above.
