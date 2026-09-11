@@ -49,14 +49,14 @@ These are integration references only; there is no direct runtime dependency bet
 
 ## Changes Made
 
-- Corrected historical/legacy `Celo-HT` GitHub references to the canonical `Celo-HaiTi` organization.
+- Corrected legacy GitHub organization references to the canonical `Celo-HaiTi` organization.
 - Updated licensing language to match the verified canonical org and identity.
 - Added explicit readiness documentation for this repository's actual responsibility.
 - Preserved historical terminology where required and marked it as historical rather than active product usage.
 
 ## Contradictions Found
 
-- Historical/legacy GitHub organization references using `Celo-HT` remained in project documentation.
+- Legacy GitHub organization references remained in project documentation.
 - The license note referenced the legacy org path instead of the current canonical source.
 - The repository needed a clear distinction between publication content and live product implementation status.
 
