@@ -13,18 +13,18 @@ CeloHT is **not** a blockchain, not a token, not a cryptocurrency, and not an in
 
 ## Repository contents
 
-This repository currently contains:
+This repository is organized into a small publication structure:
 
-- `CELOHT_INVESTOR_AND_OPEN_SOURCE_PROJECT_BOOK_v1.0_AUGUST_2026.pdf` — primary published PDF artifact
-- `CeloHT_Investor_Book_FINAL.docx` — editable source document
+- `publications/CELOHT_INVESTOR_AND_OPEN_SOURCE_PROJECT_BOOK_v1.0_AUGUST_2026.pdf` — primary published PDF artifact
+- `publications/CeloHT_Investor_Book_FINAL.docx` — editable source document
 - `README.md` — project overview and access instructions
-- `CHANGELOG.md` — publication update history
-- `SOURCES.md` — reference list and source notes
-- `REPOSITORY_PRODUCT_READINESS.md` — repository responsibility and readiness status
+- `docs/CHANGELOG.md` — publication update history
+- `docs/SOURCES.md` — reference list and source notes
+- `docs/REPOSITORY_PRODUCT_READINESS.md` — repository responsibility and readiness status
+- `docs/WALLET_COMPATIBILITY.md` — wallet and ecosystem compatibility notes
 - `LICENSE` — publication license
-- `WALLET_COMPATIBILITY.md` — wallet and ecosystem compatibility notes
 - `CITATION.cff` — citation metadata
-- project images and branding assets used in the publication
+- `assets/` — project images and branding assets used in the publication
 
 ## Intended audience
 
@@ -62,9 +62,9 @@ The CeloHT dApp (`celoht-dapp`) referenced in this book is a **prototype with si
 
 ## How to access
 
-- **Read / download:** `CELOHT_INVESTOR_AND_OPEN_SOURCE_PROJECT_BOOK_v1.0_AUGUST_2026.pdf`
-- **Editable source:** `CeloHT_Investor_Book_FINAL.docx`
-- **Repository metadata and publication notes:** `CHANGELOG.md`, `SOURCES.md`, `REPOSITORY_PRODUCT_READINESS.md`
+- **Read / download:** `publications/CELOHT_INVESTOR_AND_OPEN_SOURCE_PROJECT_BOOK_v1.0_AUGUST_2026.pdf`
+- **Editable source:** `publications/CeloHT_Investor_Book_FINAL.docx`
+- **Repository metadata and publication notes:** `docs/CHANGELOG.md`, `docs/SOURCES.md`, `docs/REPOSITORY_PRODUCT_READINESS.md`
 
 ## Corrections and feedback
 

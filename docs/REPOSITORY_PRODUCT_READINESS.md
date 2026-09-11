@@ -15,9 +15,9 @@ This repository is not a blockchain application, smart-contract deployment repo,
 ## Architecture
 
 - Static publication repository
-- Primary artifact: `CELOHT_INVESTOR_AND_OPEN_SOURCE_PROJECT_BOOK_v1.0_AUGUST_2026.pdf`
-- Editable source artifact: `CeloHT_Investor_Book_FINAL.docx`
-- Supporting project details: `README.md`, `CHANGELOG.md`, `SOURCES.md`, `LICENSE`, and brand assets
+- Primary artifact: `publications/CELOHT_INVESTOR_AND_OPEN_SOURCE_PROJECT_BOOK_v1.0_AUGUST_2026.pdf`
+- Editable source artifact: `publications/CeloHT_Investor_Book_FINAL.docx`
+- Supporting project details: `README.md`, `docs/CHANGELOG.md`, `docs/SOURCES.md`, `LICENSE`, and `assets/`
 - No application runtime, backend, database, or contract deployment layer
 
 ## Technology Stack
