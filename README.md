@@ -1,4 +1,4 @@
-# Celo-HaiTi Investor & Open Source Project Book
+# Celo-HT Investor & Open Source Project Book
 
 **Version:** v1.0.2
 **Publication date:** August 2026
@@ -7,7 +7,7 @@
 
 ## Repository purpose
 
-This repository packages the official investor and open-source project book for **Celo-HaiTi**. It is a publication repository, not a live blockchain application, wallet, or smart-contract deployment project. The purpose of this repo is to distribute the documented Celo-HaiTi narrative, governance context, technical architecture overview, and current-status disclosure in a stable, reviewable format.
+This repository packages the official investor and open-source project book for **Celo-HaiTi(CeloHT)**. It is a publication repository, not a live blockchain application, wallet, or smart-contract deployment project. The purpose of this repo is to distribute the documented Celo-HaiTi narrative, governance context, technical architecture overview, and current-status disclosure in a stable, reviewable format.
 
 Celo-HaiTi is **not** a blockchain, not a token, not a cryptocurrency, and not an investment platform. See [`NO_TOKEN_POLICY.md`](https://github.com/Celo-HaiTi/CeloHT/blob/main/NO_TOKEN_POLICY.md) in the core `Celo-HaiTi` repository. The book references USDm (historically known as Celo Dollar / cUSD) and the Valora wallet as external ecosystem infrastructure; Celo-HaiTi does not issue or operate either.
 
