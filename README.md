@@ -1,4 +1,4 @@
-# CeloHT Investor & Open Source Project Book
+# Celo-HaiTi Investor & Open Source Project Book
 
 **Version:** v1.0.2
 **Publication date:** August 2026
@@ -7,9 +7,9 @@
 
 ## Repository purpose
 
-This repository packages the official investor and open-source project book for **CeloHT**. It is a publication repository, not a live blockchain application, wallet, or smart-contract deployment project. The purpose of this repo is to distribute the documented CeloHT narrative, governance context, technical architecture overview, and current-status disclosure in a stable, reviewable format.
+This repository packages the official investor and open-source project book for **Celo-HaiTi**. It is a publication repository, not a live blockchain application, wallet, or smart-contract deployment project. The purpose of this repo is to distribute the documented Celo-HaiTi narrative, governance context, technical architecture overview, and current-status disclosure in a stable, reviewable format.
 
-CeloHT is **not** a blockchain, not a token, not a cryptocurrency, and not an investment platform. See [`NO_TOKEN_POLICY.md`](https://github.com/Celo-HaiTi/CeloHT/blob/main/NO_TOKEN_POLICY.md) in the core `CeloHT` repository. The book references USDm (historically known as Celo Dollar / cUSD) and the Valora wallet as external ecosystem infrastructure; CeloHT does not issue or operate either.
+Celo-HaiTi is **not** a blockchain, not a token, not a cryptocurrency, and not an investment platform. See [`NO_TOKEN_POLICY.md`](https://github.com/Celo-HaiTi/CeloHT/blob/main/NO_TOKEN_POLICY.md) in the core `Celo-HaiTi` repository. The book references USDm (historically known as Celo Dollar / cUSD) and the Valora wallet as external ecosystem infrastructure; Celo-HaiTi does not issue or operate either.
 
 ## Repository contents
 
@@ -28,7 +28,7 @@ This repository is organized into a small publication structure:
 
 ## Intended audience
 
-Venture capital and impact investors, grant committees, development agencies, NGOs, journalists, researchers, and open-source contributors evaluating CeloHT.
+Venture capital and impact investors, grant committees, development agencies, NGOs, journalists, researchers, and open-source contributors evaluating Celo-HaiTi.
 
 ## Contents
 
@@ -40,7 +40,7 @@ Venture capital and impact investors, grant committees, development agencies, NG
 - Part V — Evidence & Reflection (Chapters 38–45): metrics, case studies, lessons learned, challenges, expansion strategy
 - Part VI — Readiness & Reference (Chapters 46–55): institutional/grant readiness, FAQs, appendices, glossary, references, acknowledgements
 
-## Official CeloHT ecosystem
+## Official Celo-HaiTi ecosystem
 
 - **GitHub organization:** [github.com/Celo-HaiTi](https://github.com/Celo-HaiTi)
 - **Website:** [celoht.com](https://celoht.com)
@@ -58,7 +58,7 @@ Venture capital and impact investors, grant committees, development agencies, NG
 
 ## Status disclosure
 
-The CeloHT dApp (`celoht-dapp`) referenced in this book is a **prototype with simulated wallet functionality**, not a live mainnet deployment. Smart contracts in `celoht-smart-contracts` have not been publicly confirmed as externally audited or mainnet-deployed as of this publication. Readers should treat any forward-looking statement in this book as a stated intention, not a completed milestone, unless explicitly marked complete.
+The Celo-HaiTi dApp (`celoht-dapp`) referenced in this book is a **prototype with simulated wallet functionality**, not a live mainnet deployment. Smart contracts in `celoht-smart-contracts` have not been publicly confirmed as externally audited or mainnet-deployed as of this publication. Readers should treat any forward-looking statement in this book as a stated intention, not a completed milestone, unless explicitly marked complete.
 
 ## How to access
 
@@ -72,7 +72,7 @@ To report a factual or technical inconsistency in this book, please [open an iss
 
 ## License
 
-Text of this book is released under **CC BY 4.0** (Creative Commons Attribution 4.0) unless otherwise noted — see [`LICENSE`](./LICENSE). CeloHT's software repositories are separately licensed under **Apache 2.0**; see the [`CeloHT`](https://github.com/Celo-HaiTi/CeloHT/blob/main/LICENSE) repository for software licensing terms.
+Text of this book is released under **CC BY 4.0** (Creative Commons Attribution 4.0) unless otherwise noted — see [`LICENSE`](./LICENSE). Celo-HaiTi's software repositories are separately licensed under **Apache 2.0**; see the [`Celo-HaiTi/CeloHT`](https://github.com/Celo-HaiTi/CeloHT/blob/main/LICENSE) repository for software licensing terms.
 
 ---
 

@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to the CeloHT Investor & Open Source Project Book are documented here.
+All notable changes to the Celo-HaiTi Investor & Open Source Project Book are documented here.
 
 ## [1.0.2] — August 2026
 

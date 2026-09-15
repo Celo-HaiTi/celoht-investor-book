@@ -2,11 +2,11 @@
 
 ## Executive Status
 
-- Repository: CeloHT Investor & Open Source Project Book
+- Repository: Celo-HaiTi Investor & Open Source Project Book
 - Date: 2026-09-15
 - Final status: NOT READY
 
-This repository is a publication-only repository. It packages the CeloHT investor book and supporting metadata, and it does not contain a live blockchain application, wallet runtime, backend service, database, smart contract deployment, identity service, or production deployment configuration. The repository is internally consistent and safe for its actual scope, but it cannot be certified as a production software system because the relevant external ecosystem claims are not verifiable from this repo alone.
+This repository is a publication-only repository. It packages the Celo-HaiTi investor book and supporting metadata, and it does not contain a live blockchain application, wallet runtime, backend service, database, smart contract deployment, identity service, or production deployment configuration. The repository is internally consistent and safe for its actual scope, but it cannot be certified as a production software system because the relevant external ecosystem claims are not verifiable from this repo alone.
 
 ## Verification Matrix
 

@@ -2,7 +2,7 @@
 
 Primary sources for independent verification of claims made in this book. Every link below was checked against the live Celo-HaiTi GitHub organization as of the August 2026 correction pass.
 
-## CeloHT official sources
+## Celo-HaiTi official sources
 
 - Organization overview — https://github.com/Celo-HaiTi
 - Core governance & documentation repository — https://github.com/Celo-HaiTi/CeloHT
@@ -26,4 +26,4 @@ Primary sources for independent verification of claims made in this book. Every 
 
 ## Note on unverified items
 
-Some figures and claims in this book (educational volume counts, historical milestones, financial figures) originate from CeloHT's internal record and were not independently re-verified line-by-line against every policy document in the `CeloHT` repository during this correction pass. See `CHANGELOG.md` for the specific list of open items.
+Some figures and claims in this book (educational volume counts, historical milestones, financial figures) originate from Celo-HaiTi's internal record and were not independently re-verified line-by-line against every policy document in the `Celo-HaiTi` repository during this correction pass. See `CHANGELOG.md` for the specific list of open items.

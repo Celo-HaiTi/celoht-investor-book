@@ -8,9 +8,9 @@ CeloHT repository or linked service.
 
 ## Repository Purpose
 
-This repository is the CeloHT investor and open-source project book. It packages the official publication in PDF and Word formats, supports public distribution, and provides the source material for the CeloHT ecosystem narrative.
+This repository is the Celo-HaiTi investor and open-source project book. It packages the official publication in PDF and Word formats, supports public distribution, and provides the source material for the Celo-HaiTi ecosystem narrative.
 
-This repository is not a blockchain application, smart-contract deployment repo, or operational wallet implementation. Its responsibility is to provide a publication-ready record of the documented CeloHT mission, governance, architecture, and current status disclosure.
+This repository is not a blockchain application, smart-contract deployment repo, or operational wallet implementation. Its responsibility is to provide a publication-ready record of the documented Celo-HaiTi mission, governance, architecture, and current status disclosure.
 
 ## Architecture
 
@@ -35,7 +35,7 @@ This repository is not a blockchain application, smart-contract deployment repo,
 
 ## Cross-Repository Integrations
 
-This repository references the broader CeloHT ecosystem, including:
+This repository references the broader Celo-HaiTi ecosystem, including:
 
 - `Celo-HaiTi/CeloHT` for governance, roadmap, and policy references
 - `Celo-HaiTi/celoht-docs`
@@ -167,4 +167,4 @@ Legacy organization names and cUSD references are retained only where the public
 
 `IMPLEMENTED` for the repository's publication-packaging responsibility. Full evidence-backed publication sign-off is `BLOCKED` pending the external verification work above.
 
-This repository is implemented for its actual responsibility: packaging the CeloHT investor book and maintaining repository identity, references, and publication metadata against the canonical CeloHT organization and current terminology. External claims remain subject to the blockers above.
+This repository is implemented for its actual responsibility: packaging the Celo-HaiTi investor book and maintaining repository identity, references, and publication metadata against the canonical Celo-HaiTi organization and current terminology. External claims remain subject to the blockers above.
