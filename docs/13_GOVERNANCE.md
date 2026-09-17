@@ -22,7 +22,7 @@ and should be treated as non-canonical unless independently re-confirmed.
 
 - One-member-one-vote (community-governed)
 - No governance token — USDm and CELO are referenced only as a
-  stablecoin/gas asset, never as governance tokens (`NO_TOKEN_POLICY.md`)
+  stablecoin/gas asset, never as governance tokens ([NO_TOKEN_POLICY.md](../NO_TOKEN_POLICY.md))
 
 ## Decision process (as documented)
 

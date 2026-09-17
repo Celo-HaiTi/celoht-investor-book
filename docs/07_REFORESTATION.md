@@ -32,4 +32,4 @@ financed, planted, or verified.
 
 If CeloHT publishes a reforestation report with dated, sourced figures
 (financed vs. planted vs. verified, with geography), it should be linked
-here and mirrored into `docs/22_METRICS.md` with a verification status.
+here and mirrored into [docs/22_METRICS.md](./22_METRICS.md) with a verification status.

@@ -20,7 +20,7 @@
 | Project name "CeloHT" | `VERIFIED` | Consistent across all inspected repositories | This rebuild |
 | Org "Celo-HaiTi" | `VERIFIED` | GitHub organization confirmed | This rebuild |
 | Three pillars: Education, Agents, Reforestation | `VERIFIED` | Consistent across all inspected repositories | This rebuild |
-| No native CeloHT token | `VERIFIED` | `NO_TOKEN_POLICY.md` referenced across repos | This rebuild |
+| No native CeloHT token | `VERIFIED` | [NO_TOKEN_POLICY.md](../NO_TOKEN_POLICY.md) referenced across repos | This rebuild |
 | Founder: Johnny Dubic | `VERIFIED` | `CeloHT/FOUNDER.md`, `celoht-governance`, `celoht-siteweb` | This rebuild |
 | Founder role limits (no unilateral authority) | `VERIFIED` | Explicitly stated in `celoht-governance`, `celoht-siteweb` | This rebuild |
 | One-member-one-vote governance | `PROJECT-REPORTED` | `celoht-governance` README | This rebuild |

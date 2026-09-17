@@ -22,11 +22,11 @@ to provide cash-to-USDm conversion and digital payment support.
 Any of the above should only be added once sourced from a dated,
 verifiable record (e.g., an on-chain data export, a signed partner report,
 or a published project update), and should carry an explicit
-`verified` / `reported` / `estimated` label per `docs/22_METRICS.md`.
+`verified` / `reported` / `estimated` label per [docs/22_METRICS.md](./22_METRICS.md).
 
 ## Smart contract support
 
 The `celoht-smart-contracts` repository documents an Agent Network
 contract module as part of its testnet-deployed stack. This confirms the
 protocol-level design exists; it does not by itself confirm live agent
-operations. See `docs/10_SMART_CONTRACTS.md`.
+operations. See [docs/10_SMART_CONTRACTS.md](./10_SMART_CONTRACTS.md).

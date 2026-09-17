@@ -32,4 +32,4 @@ target dates were not independently confirmed during this rebuild.
 - Any regulatory clarity needed for expanded agent-network operations
 
 No item in this roadmap moves categories without a dated, sourced update
-recorded in `evidence/VERIFICATION_STATUS.md`.
+recorded in [evidence/VERIFICATION_STATUS.md](../evidence/VERIFICATION_STATUS.md).

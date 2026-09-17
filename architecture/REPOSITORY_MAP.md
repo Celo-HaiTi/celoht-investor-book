@@ -1,9 +1,9 @@
 # Repository Map
 
 Verified via public GitHub research (repository pages, wiki, and one
-release) as part of preparing `publication/celoht-investor-book.pdf`.
+release) as part of preparing [publication/celoht-investor-book.pdf](../publication/celoht-investor-book.pdf).
 Column "Status" reflects confirmation depth, not code quality. See
-`publication/celoht-investor-book.pdf`, Appendix D, for full profiles.
+[publication/celoht-investor-book.pdf](../publication/celoht-investor-book.pdf), Appendix D, for full profiles.
 
 | Repository | Purpose | Layer | Status |
 |---|---|---|---|

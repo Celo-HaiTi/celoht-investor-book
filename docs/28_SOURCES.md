@@ -27,6 +27,6 @@ when each source was consulted during this rebuild.
 This edition was built via public web access to GitHub repository pages
 (README/file listings), not via direct repository cloning, git history
 inspection, or execution of the repositories' own build/test/lint
-commands. See `REBUILD_AUDIT.md` for exactly what this implies about the
+commands. See [REBUILD_AUDIT.md](../REBUILD_AUDIT.md) for exactly what this implies about the
 verification depth of this edition, and what a maintainer with direct
 repository access should still confirm.

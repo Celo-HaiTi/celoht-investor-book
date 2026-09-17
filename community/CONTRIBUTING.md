@@ -6,8 +6,8 @@ code. Contributions should focus on accuracy, sourcing, and clarity.
 ## Ground rules
 
 1. **Every material claim needs a source.** If you add a claim, add it to
-   `docs/28_SOURCES.md` and give it a status in
-   `evidence/VERIFICATION_STATUS.md`.
+   [docs/28_SOURCES.md](../docs/28_SOURCES.md) and give it a status in
+   [evidence/VERIFICATION_STATUS.md](../evidence/VERIFICATION_STATUS.md).
 2. **Never upgrade a status without evidence.** `PLANNED` does not become
    `LIVE`, and `TESTNET` does not become `MAINNET`, without a dated,
    sourced confirmation.

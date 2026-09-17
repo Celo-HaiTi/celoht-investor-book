@@ -24,7 +24,7 @@
   addresses were not independently re-verified against a live block
   explorer at the time of writing. Before citing a specific deployed
   address externally, verify it directly on a Celo Sepolia block explorer
-  and record the verification date in `evidence/VERIFICATION_STATUS.md`.
+  and record the verification date in [evidence/VERIFICATION_STATUS.md](../evidence/VERIFICATION_STATUS.md).
 - It does not claim an audit has occurred. No audit firm, audit date, or
   audit report is referenced, because none was identified in public
   sources during this rebuild.

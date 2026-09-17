@@ -26,9 +26,9 @@ assigned; none were independently derivable during this rebuild.
   funding runway is asserted in this edition.
 - **Data verification risk** — impact and adoption metrics (education,
   agents, reforestation) require ongoing independent verification to
-  remain credible; see `docs/22_METRICS.md`.
+  remain credible; see [docs/22_METRICS.md](./22_METRICS.md).
 - **Ecosystem dependency** — changes in Celo's own roadmap, fee structure,
   or supported wallets could affect CeloHT's product.
 
 This list is not exhaustive and should be reviewed alongside
-`docs/25_DUE_DILIGENCE.md`.
+[docs/25_DUE_DILIGENCE.md](./25_DUE_DILIGENCE.md).

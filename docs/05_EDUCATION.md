@@ -13,7 +13,7 @@ Creole. **Status: `PROJECT-REPORTED`.**
 
 - Specific enrollment, completion, or certification numbers are not stated
   here unless a dated, sourced figure is available (see
-  `docs/22_METRICS.md`). A number such as "N people educated" should never
+  [docs/22_METRICS.md](./22_METRICS.md)). A number such as "N people educated" should never
   be published without a status label (`verified` / `reported` /
   `estimated` / `planned`).
 - Whether courses are currently published and live, vs. planned, is

@@ -4,7 +4,7 @@
 
 The following repositories were identified as publicly visible under the
 `Celo-HaiTi` GitHub organization during this rebuild. See
-`architecture/REPOSITORY_MAP.md` for the full table with purpose, layer,
+[architecture/REPOSITORY_MAP.md](../architecture/REPOSITORY_MAP.md) for the full table with purpose, layer,
 and status. This list should be re-verified periodically, since repository
 visibility and activity can change.
 
@@ -24,7 +24,7 @@ Repositories referenced in prior planning material but **not independently
 confirmed as publicly visible** during this rebuild (`celoht-dapp`,
 `celoht-backend`, `celoht-indexer`, `celoht-supabase`, `celoht-brand`)
 are marked `EXTERNAL VERIFICATION REQUIRED` in
-`architecture/REPOSITORY_MAP.md` rather than asserted as active.
+[architecture/REPOSITORY_MAP.md](../architecture/REPOSITORY_MAP.md) rather than asserted as active.
 
 ## How the pieces relate
 

@@ -1,7 +1,7 @@
 # 09 — Technical Architecture
 
-See also `docs/04_PRODUCT_ARCHITECTURE.md` for the product-level view and
-`architecture/REPOSITORY_MAP.md` for the repository-to-layer mapping.
+See also [docs/04_PRODUCT_ARCHITECTURE.md](./04_PRODUCT_ARCHITECTURE.md) for the product-level view and
+[architecture/REPOSITORY_MAP.md](../architecture/REPOSITORY_MAP.md) for the repository-to-layer mapping.
 
 ## Layers
 

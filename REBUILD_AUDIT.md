@@ -20,13 +20,13 @@ repositories; they are marked `EXTERNAL VERIFICATION REQUIRED` throughout.
 
 ## Rebuilt (canonical documents)
 
-- `README.md`, `BOOK.md`, `NO_TOKEN_POLICY.md`, `LICENSE`
+- [README.md](./README.md), [BOOK.md](./BOOK.md), [NO_TOKEN_POLICY.md](./NO_TOKEN_POLICY.md), [LICENSE](./LICENSE)
 - `docs/00` through `docs/28` (see the published book's table of contents
   for the final chapter list and numbering)
-- `architecture/REPOSITORY_MAP.md`
-- `evidence/VERIFICATION_STATUS.md`
-- `community/CONTRIBUTING.md`
-- `publication/celoht-investor-book.docx` and `.pdf` — a full narrative
+- [architecture/REPOSITORY_MAP.md](./architecture/REPOSITORY_MAP.md)
+- [evidence/VERIFICATION_STATUS.md](./evidence/VERIFICATION_STATUS.md)
+- [community/CONTRIBUTING.md](./community/CONTRIBUTING.md)
+- [publication/celoht-investor-book.docx](./publication/celoht-investor-book.docx) and `.pdf` — a full narrative
   edition with diagrams, a page-numbered table of contents, and a
   structured due-diligence checklist
 
@@ -51,7 +51,7 @@ CANONICAL VERIFICATION` in the governance chapter.
 
 ## Architecture verification
 
-See `architecture/REPOSITORY_MAP.md` for the full, current repository
+See [architecture/REPOSITORY_MAP.md](./architecture/REPOSITORY_MAP.md) for the full, current repository
 table. `celoht-dapp`, `celoht-backend`, and `celoht-admin` were each
 independently opened and reviewed rather than assumed from a secondary
 description.
@@ -112,5 +112,5 @@ reviewer with direct repository access.
       maintainers
 - [ ] Populate the metrics chapter with sourced figures, if/when available
 - [ ] Draft remaining sub-documents listed under "Known limitations" above
-- [ ] Re-verify this document and `architecture/REPOSITORY_MAP.md`
+- [ ] Re-verify this document and [architecture/REPOSITORY_MAP.md](./architecture/REPOSITORY_MAP.md)
       whenever repositories are added, renamed, archived, or made private

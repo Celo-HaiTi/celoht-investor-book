@@ -42,4 +42,4 @@ component:**
 | dApp / Backend / Indexer / Supabase | `EXTERNAL VERIFICATION REQUIRED` — referenced in planning material; not independently confirmed as public, deployed repositories during this rebuild |
 
 Do not treat any component above as production-verified unless a dated,
-sourced confirmation is added to `evidence/VERIFICATION_STATUS.md`.
+sourced confirmation is added to [evidence/VERIFICATION_STATUS.md](../evidence/VERIFICATION_STATUS.md).
